@@ -24,5 +24,6 @@ This method can also be used for cars using the rolling codes
 
 
 Reference Projects - 
-* [Transmitting and Receiving data using Arduino and an RF module](https://www.electronicshub.org/arduino-rf-transmitter-receiver-module/)
-* 
+* [Transmitting and Receiving data using Arduino and an RF module - electronicshub.org](https://www.electronicshub.org/arduino-rf-transmitter-receiver-module/)
+* https://randomnerdtutorials.com/decode-and-send-433-mhz-rf-signals-with-arduino/
+* https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
