@@ -28,3 +28,4 @@ Reference Projects -
 * https://randomnerdtutorials.com/decode-and-send-433-mhz-rf-signals-with-arduino/
 * https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 * https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/
+* [rc-switch library]()
