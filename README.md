@@ -21,3 +21,8 @@ The operating frequency for key fobs in US and Japan is 315 MHz and for Europe a
 This method can also be used for cars using the rolling codes
 * We could press the unlock button on the key fob outside the range of the car so that it is not detected by the car(A bit of social engineering might be required for this). We can listen and catch this signal using our transceiver with Arduino.
 * Then we can replay the signal to the car by getting in its range to unlock it. The car would unlock in this case as the code sent by us over the RF signal is new and has not been used before.
+
+
+Reference Projects - 
+* [Transmitting and Receiving data using Arduino and an RF module](https://www.electronicshub.org/arduino-rf-transmitter-receiver-module/)
+* 
